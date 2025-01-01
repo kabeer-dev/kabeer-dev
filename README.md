@@ -1,30 +1,65 @@
-👋  I'm Kabeer Ahmed, a seasoned Full Stack Developer whose professional odyssey commenced in 2020, but truly soared from December 2022 onwards. With an insatiable curiosity for technology and a penchant for problem-solving, I've honed my skills in the intricate landscape of MERN Stack development. Currently stationed at Desol Int. Lahore, I bring a wealth of experience and a tireless work ethic to the table, collaborating with a talented team to engineer innovative solutions that redefine industry standards. My journey is fueled by a relentless pursuit of excellence and a commitment to staying at the forefront of technological evolution.
+# 💻 **Kabeer Ahmed** - Full Stack Developer
 
+Hello! I'm **Kabeer Ahmed**, a passionate Full Stack Developer specializing in the **MERN Stack**. My journey began in 2020, and I’ve been creating innovative solutions ever since. I am currently working at **Desol Int. Lahore**, where I collaborate with a talented team to build exceptional software solutions.  
 
-📫 How to reach me: { <br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923117110211">+923046250120</a>)<br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:hamza.siddique@desolint.com">kabeedahmed.dev@gmail.com</a>)
-              }
-<h1>Connect with me </h1>
+> *"Fueled by a relentless pursuit of excellence and a commitment to staying at the forefront of technological evolution."*
 
-<a href="https://www.linkedin.com/in/hamza--siddique/" rel="nofollow">
-  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%">
-</a>
-<span>
-  <a href="https://github.com/kabeer-dev" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="5%" height="5%"></a></span>
-</span>
+---
 
+## 📫 **Contact Information**  
 
-<h1> Languages </h1>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,nodejs,expressjs,mongodb,sequelize,aws,tailwind,bootstrap,firebase,materialui,mysql,vercel,heroku"/>
-<br>
+- **Phone**: [+92 304 6250120](tel:+923036250120)  
+- **Email**: [kabeerahmed.dev@gmail.com](kabeerahmed.dev@gmail.com)  
 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kabeer-dev)](https://github.com/ryo-ma/github-profile-trophy)
+## 🌐 **Connect with Me**  
 
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/kabeer--ahmed/) [![GitHub](https://img.icons8.com/nolan/48/github.png)](https://github.com/kabeer-dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabeer-dev)](https://github.com/kabeer-dev/github-readme-stats)
+---
 
+## 🚀 **Tech Stack & Tools**  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kabeer-dev&theme=dark)](https://git.io/streak-stats)
-<br>
+I am proficient in the following technologies:
+
+### **Frontend**  
+![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) 
+
+### **UI/UX Design**  
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![Material-UI](https://skillicons.dev/icons?i=materialui) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
+
+### **Backend**  
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Firebase](https://skillicons.dev/icons?i=firebase)
+
+### **Database**  
+![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Sequelize](https://skillicons.dev/icons?i=sequelize)
+
+### **DevOps & Cloud**  
+![AWS](https://skillicons.dev/icons?i=aws)  
+
+### **Deployment Tools**  
+![Vercel](https://skillicons.dev/icons?i=vercel) ![Heroku](https://skillicons.dev/icons?i=heroku)
+
+### **Other Tools**  
+![Postman](https://skillicons.dev/icons?i=postman) ![Sentry](https://skillicons.dev/icons?i=sentry) ![npm](https://skillicons.dev/icons?i=npm) ![vscode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 🏆 **Achievements**  
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=kabeer-dev&theme=gruvbox&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 **GitHub Stats**  
+
+- **Top Languages**:  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabeer-dev&layout=compact&theme=dark&langs_count=10)  
+
+- **GitHub Streak**:  
+![GitHub Streak](https://streak-stats.demolab.com?user=kabeer-dev&theme=dark&border_radius=5)
+
+---
+
+Feel free to reach out or connect! Let's create something extraordinary together! 🚀
