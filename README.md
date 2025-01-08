@@ -48,7 +48,7 @@ I am proficient in the following technologies:
 
 ## 🏆 **Achievements**  
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=kabeer-dev&theme=gruvbox&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](https://github-profile-trophy.vercel.app/?username=kabeer-dev&theme=gruvbox&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -58,7 +58,7 @@ I am proficient in the following technologies:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabeer-dev&layout=compact&theme=dark&langs_count=10)  
 
 - **GitHub Streak**:  
-![GitHub Streak](https://streak-stats.demolab.com?user=kabeer-dev&theme=dark&border_radius=5)
+![GitHub Streak](https://streak-stats.demolab.com?user=kabeer-devtheme=dark&border_radius=5)
 
 ---
 
