@@ -9,7 +9,7 @@ Hello! I'm **Kabeer Ahmed**, a passionate Full Stack Developer specializing in t
 ## 📫 **Contact Information**  
 
 - **Phone**: [+92 304 6250120](tel:+923036250120)  
-- **Email**: [kabeerahmed.dev@gmail.com](kabeerahmed.dev@gmail.com)  
+- **Email**: [kabeerahmed.dev@gmail.com](kabeerahmed0698@gmail.com)  
 
 ---
 
